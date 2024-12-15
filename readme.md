@@ -1,9 +1,9 @@
 ## Đóng góp của các thành viên
-- [Nguyễn Phúc Hiệp]: 20%
-- [Phạm Hữu Thiện]: 20%
-- [Nguyễn Đa Đa]: 20%
-- [Trần Vũ Huỳnh Đức]: 20%
-- [Bùi Văn Duy Tính]: 20%
+- Nguyễn Phúc Hiệp: 20%
+- Phạm Hữu Thiện: 20%
+- Nguyễn Đa Đa: 20%
+- Trần Vũ Huỳnh Đức: 20%
+- Bùi Văn Duy Tính: 20%
 
 ## Danh sách tài khoản
 
