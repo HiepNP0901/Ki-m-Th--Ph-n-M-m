@@ -12,6 +12,8 @@
 
 ## Epic sadface: Sorry, this user has been locked out.
 - "locked_out_user", "secret_sauce"
+## Epic sadface: Sorry, this user has been locked out.
+- "locked_out_user", "secret_sauce"
 
 ## Epic sadface: Password is required
 - "standard_user", ""
